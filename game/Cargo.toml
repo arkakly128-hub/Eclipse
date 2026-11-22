@@ -1,0 +1,12 @@
+[package]
+name = "eclipse-game"
+version = "0.1.0"
+edition = "2021"
+default-run = "eclipse-game"
+
+[dependencies]
+eclipse-engine = { path = "../engine" }
+glam.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+flate2.workspace = true
