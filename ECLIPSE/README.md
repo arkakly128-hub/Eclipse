@@ -237,6 +237,3 @@ Controls: **WASD** move, **mouse** look, **Space** jump, **Left Ctrl** sneak,
 returns to the menu or closes a screen. Click **Play** to enter the world,
 **Controls** to view the bindings, and **Quit** to exit.
 
-## License
-
-Not selected yet.
